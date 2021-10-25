@@ -1,0 +1,52 @@
+.containerD{
+    margin: 50px 20px;
+    display: flex;
+    flex-direction: column;
+}
+.name{
+    font-size: 25px;
+    font-weight: bold;
+}
+.posi{
+    margin: 10px 0;
+    color: gray;
+}
+.expLang{
+    display: flex;
+    margin: 25px 0;
+}
+
+.expp{
+    margin-right: 100px;
+}
+.expAns{
+    color: gray;
+    margin: 10px 0;
+}
+.langAns{
+    color: gray;
+    margin: 10px 0;
+}
+
+.boxD{
+    margin: 25px 0;
+    border: 2px solid gray;
+    border-radius: 4px;
+    padding: 25px;
+}
+.boxD span{
+    font-weight: bold;
+}
+.textBox{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    color: rgb(68, 63, 63)
+}
+.boxD button{
+    border-radius: 7px;
+    padding: 10px 20px;
+    color: purple;
+    background: none;
+    border: 2px solid purple;
+}

@@ -1,0 +1,12 @@
+.containerHead{
+    padding: 5px 20px;
+    border-bottom: 3.5px solid gray;
+    display: flex;
+    justify-content: space-between;
+}
+.containerHead img{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+}

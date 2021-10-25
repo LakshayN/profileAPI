@@ -1,0 +1,13 @@
+.pageBox{
+    display: flex;
+    flex-direction: row;
+}
+.div1{
+    flex: 2;
+}   
+.div2{
+    flex: 6;
+}
+.div3{
+    flex: 2;
+}
